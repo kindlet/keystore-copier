@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "KKC (KindleKeystoreCopier)", "priority": 9999999, "action": "bin/kindlekeystorecopier.sh"}
+	]
+}
